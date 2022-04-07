@@ -1,0 +1,49 @@
+body{
+    align-items: center;
+    align-content: center;
+    background-color: azure;
+
+}
+
+h1{
+    align-items: center;
+    margin-left: 43%;
+    margin-top: 10%;
+}
+
+form{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+.user_name{
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.user_mail{
+    margin: 5px;
+    padding: 5px;
+    
+}
+.user_age{
+    margin: 5px;
+    padding: 5px;
+}
+
+.user_create_button{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+
+
